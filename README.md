@@ -10,3 +10,6 @@ Imagine you're building a smart home automation system where various devices (li
 4. Devices can be controlled without the central hub or app needing to understand the internal workings of each device. It should send high-level commands without needing low-level details.
 
 ### Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
+
+# UML Diagram
+![UML](https://github.com/NEU-MaureenMae/commandPattern/assets/142388792/3b17cbd2-1fad-4917-b34c-0086cfd6458e)
